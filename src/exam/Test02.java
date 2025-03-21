@@ -5,4 +5,10 @@ public class Test02 {
 		System.out.println("hello");
 	}
 	
+	public void bb() {
+		System.out.println("FULL TEST 중");
+		
+		
+	}
+	
 }
