@@ -9,7 +9,7 @@ public class Test01 {
 
 	}
 
-	public static void test(
+	public static void test02(
 		//원격에서 수정
 	){}
 	
