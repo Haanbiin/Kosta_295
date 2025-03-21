@@ -1,7 +1,7 @@
 package exam;
 
 public class Test01 {
-	public static void main(String[] args) {
+	public void remoteConflictTest() {
 		System.out.println("쑥떡먹고싶다.");
 	}
 
