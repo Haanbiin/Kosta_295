@@ -9,8 +9,12 @@ public class Test01 {
 
 	}
 
-	public static void test02(
-		//원격에서 수정
-	){}
+
+
+	public static void tes03(){
+		// 로컬에서 수정사항을 stash에 저장하려고 함.
+		// 고쳤음.
+	}
+
 	
 }
