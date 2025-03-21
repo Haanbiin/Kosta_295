@@ -10,9 +10,11 @@ public class Test02 {
 		
 		System.out.println("원격에서 수정함");
 		
-		System.out.println("로컬에서 수장함");
+		System.out.println("로컬에서 수정 함");
 		
 		System.out.println("로컬에서 수정 함 더 함");
+		System.out.println("로컬에서 수정 함 더 함");
+		
 	}
 
 
