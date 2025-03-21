@@ -7,8 +7,10 @@ public class Test02 {
 	
 	public void bb() {
 		System.out.println("FULL TEST 중");
-		
-		
+		System.out.println("원격에서 수정함");
+			
 	}
+
+
 	
 }
